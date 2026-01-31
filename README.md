@@ -12,7 +12,9 @@ Clone the repository (or download the source code):
 
 Bash
 git clone https://github.com/dulX404/IT3040---ITPM-Assignment.git)
+
 cd IT3040_Assignment1_IT23601574
+
 Install project dependencies:
 
 Bash
