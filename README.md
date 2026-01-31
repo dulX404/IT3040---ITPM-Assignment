@@ -31,6 +31,7 @@ To execute all test suites (Positive, Negative, and UI) together:
 
 Bash
 npx playwright test
+
 2. Run Specific Test Suites
 If you want to run only one type of test:
 
