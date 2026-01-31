@@ -118,7 +118,7 @@
                 - img [ref=e126]
               - button "Redo" [ref=e128] [cursor=pointer]:
                 - img [ref=e129]
-          - textbox "Input Your Singlish Text Here." [active] [ref=e132]: mama adha enavaa
+          - textbox "Input Your Singlish Text Here." [active] [ref=e132]: Oyage CV eka jagath@gmail.com ekata evanna.
           - generic [ref=e133]:
             - button "Open File" [ref=e134] [cursor=pointer]:
               - img [ref=e135]
@@ -134,6 +134,7 @@
           - img [ref=e151]
         - generic [ref=e153]:
           - generic [ref=e154]: Sinhala
+          - generic [ref=e155]: ඔයගෙ CV එක ජගත්@gmail.com එකට එවන්න.
           - generic [ref=e156]:
             - button "Copy" [ref=e157] [cursor=pointer]:
               - img [ref=e158]
